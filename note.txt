@@ -1,5 +1,6 @@
 note:
 git clone
+git add .
 git commit -a -m "comments here"
 git push
 git pull
