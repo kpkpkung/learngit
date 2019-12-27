@@ -1,0 +1,5 @@
+note:
+git clone
+git commit -a -m "comments here"
+git push
+git pull
